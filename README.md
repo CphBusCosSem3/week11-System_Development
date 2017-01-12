@@ -3,7 +3,7 @@
 ##Tirsdag - 18.04.2017
 ###Intro til SYS
 
-[Outsourcing](https://github.com/CphBusCosSem3/week11-System_Development/blob/master/Outsourcing.md)
+[Outsourcing](Outsourcing.md)
 
 **Objectives**
 
