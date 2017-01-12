@@ -1,4 +1,4 @@
-#Uge 16 - 18.04.2017 - 21.04.2017
+#Uge 16 - System Development
 
 ##Tirsdag - 18.04.2017
 ###Intro til SYS
