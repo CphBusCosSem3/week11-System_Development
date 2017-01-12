@@ -3,7 +3,7 @@
 ##Tirsdag - 18.04.2017
 ###Intro til SYS
 
-[Outsourcing](Outsourcing.md)
+##[Outsourcing](Outsourcing.md)
 
 **Objectives**
 
@@ -31,7 +31,7 @@
 - select appropriate means and tools when communicating in agile environments
 
 ##Torsdag - 20.04.2017
-[Extreme Programming](xp.md)
+##[Extreme Programming](xp.md)
 
 **Know**
 - the basics of XP as a development method
