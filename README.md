@@ -2,7 +2,18 @@
 
 ##Tirsdag - 18.04.2017
 * Intro til SYS
-* Outsourcing
+
+###Outsourcing
+**Objectives**
+**Know*
+- the concepts of outsourcing
+- potential benefits and pitfalls
+- what to consider before making an aggreement about outsourcing
+- places to look for freelancers
+
+**Be able to
+- specify requirements for a task suited to be outsourced
+
 
 ##Onsdag - 19.04.2017
 * Agile metoder
