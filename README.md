@@ -5,6 +5,7 @@
 
 ###Outsourcing
 **Objectives**
+
 **Know**
 - the concepts of outsourcing
 - potential benefits and pitfalls
@@ -16,10 +17,20 @@
 
 
 ##Onsdag - 19.04.2017
-* Agile metoder
+
+###Agile metoder
+**Know**
+- that systems development is an independent discipline
+- inherent challenges in sw-development
+- background for the agile movement
+- intentions expressed in the agile manifesto and related works
+- characteristics of agile approaches to software development
+
+**Be able to**
+- select appropriate means and tools when communicating in agile environments
 
 ##Torsdag - 20.04.2017
-* Extreme Programming
+###Extreme Programming
 
 ##Fredag - 21.04.2017
 * Eksamens spørgsmål
