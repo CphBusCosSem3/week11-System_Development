@@ -31,7 +31,7 @@
 - select appropriate means and tools when communicating in agile environments
 
 ##Torsdag - 20.04.2017
-###Extreme Programming
+[Extreme Programming](https://github.com/CphBusCosSem3/week11-System_Development/blob/master/xp.md)
 
 **Know**
 - the basics of XP as a development method
