@@ -18,7 +18,8 @@
 
 
 ##Onsdag - 19.04.2017
-###Agile metoder
+[Agile metoder](https://github.com/CphBusCosSem3/week11-System_Development/blob/master/Agile_metoder.md)
+
 **Know**
 - that systems development is an independent discipline
 - inherent challenges in sw-development
@@ -31,6 +32,7 @@
 
 ##Torsdag - 20.04.2017
 ###Extreme Programming
+
 **Know**
 - the basics of XP as a development method
 - the 12 practices of XP
