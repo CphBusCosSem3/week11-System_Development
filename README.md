@@ -46,4 +46,4 @@
 
 ##Fredag - 21.04.2017
 * [Eksamens spørgsmål](https://github.com/CphBusCosSem3/week11-System_Development/blob/master/Exam_Questions_week_1.pdf)
-* Study Point opgave
+* [Study Point opgave](https://github.com/CphBusCosSem3/week11-System_Development/blob/master/SP_exercise_outsourcing.pdf)
