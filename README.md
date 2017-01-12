@@ -5,13 +5,13 @@
 
 ###Outsourcing
 **Objectives**
-**Know*
+**Know**
 - the concepts of outsourcing
 - potential benefits and pitfalls
 - what to consider before making an aggreement about outsourcing
 - places to look for freelancers
 
-**Be able to
+**Be able to**
 - specify requirements for a task suited to be outsourced
 
 
