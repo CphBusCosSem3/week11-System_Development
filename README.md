@@ -18,7 +18,7 @@
 
 
 ##Onsdag - 19.04.2017
-[Agile metoder](https://github.com/CphBusCosSem3/week11-System_Development/blob/master/Agile_metoder.md)
+[Agile metoder](Agile_metoder.md)
 
 **Know**
 - that systems development is an independent discipline
@@ -31,7 +31,7 @@
 - select appropriate means and tools when communicating in agile environments
 
 ##Torsdag - 20.04.2017
-[Extreme Programming](https://github.com/CphBusCosSem3/week11-System_Development/blob/master/xp.md)
+[Extreme Programming](xp.md)
 
 **Know**
 - the basics of XP as a development method
@@ -45,5 +45,5 @@
 
 
 ##Fredag - 21.04.2017
-* [Eksamens spørgsmål](https://github.com/CphBusCosSem3/week11-System_Development/blob/master/Exam_Questions_week_1.pdf)
-* [Study Point opgave](https://github.com/CphBusCosSem3/week11-System_Development/blob/master/SP_exercise_outsourcing.pdf)
+* [Eksamens spørgsmål](Exam_Questions_week_1.pdf)
+* [Study Point opgave](SP_exercise_outsourcing.pdf)
