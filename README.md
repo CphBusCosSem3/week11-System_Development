@@ -1,9 +1,8 @@
 #Uge 16 - System Development
 
-##Tirsdag - 18.04.2017
-###Intro til SYS
+##Intro til SYS - Tirsdag - 18.04.2017
 
-##[Outsourcing](Outsourcing.md)
+##[Outsourcing](Outsourcing.md) - Tirsdag - 18.04.2017
 
 **Objectives**
 
@@ -17,8 +16,7 @@
 - specify requirements for a task suited to be outsourced
 
 
-##Onsdag - 19.04.2017
-##[Agile metoder](Agile_metoder.md)
+##[Agile metoder](Agile_metoder.md) - Onsdag - 19.04.2017
 
 **Know**
 - that systems development is an independent discipline
@@ -30,8 +28,7 @@
 **Be able to**
 - select appropriate means and tools when communicating in agile environments
 
-##Torsdag - 20.04.2017
-##[Extreme Programming](xp.md)
+##[Extreme Programming](xp.md) - Torsdag - 20.04.2017
 
 **Know**
 - the basics of XP as a development method
