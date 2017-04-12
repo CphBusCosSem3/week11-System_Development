@@ -43,5 +43,8 @@ Alle skal være i en gruppe, skriv navne i dette Google doc: https://docs.google
 
 
 ##Fredag - 21.04.2017
-* [Eksamens spørgsmål](Exam_Questions_week_1.pdf)
+* [Eksamens spørgsmål](Questions - week 1.pdf)
+https://github.com/CphBusCosSem3/week11-System_Development/blob/master/Questions%20-%20week%201.pdf
+
 * [Study Point opgave](SP_exercise_outsourcing.pdf)
+https://github.com/CphBusCosSem3/week11-System_Development/blob/master/SP_exercise_outsourcing.pdf
