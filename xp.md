@@ -12,6 +12,9 @@
 
 #Resources
 
+* PowerPoint
+https://github.com/CphBusCosSem3/week11-System_Development/blob/master/Extreme%20Programming.pptx 
+
 * Kent Beck: Extreme programming explained
   * chap 1: Risk: The basic problem
   * chap 4: Four Variables
