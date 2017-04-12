@@ -1,14 +1,14 @@
 #Agile metoder
 
 **Know**
-- that systems development is an independent discipline
-- inherent challenges in sw-development
-- background for the agile movement
-- intentions expressed in the agile manifesto and related works
-- characteristics of agile approaches to software development
+- That systems development is an independent discipline
+- Inherent challenges in sw-development
+- Background for the agile movement
+- Intentions expressed in the agile manifesto and related works
+- Characteristics of agile approaches to software development
 
 **Be able to**
-- select appropriate means and tools when communicating in agile environments
+- Select appropriate means and tools when communicating in agile environments
 
 #Resources
 1. Fowler: The new Methodology - http://martinfowler.com/articles/newMethodology.html
