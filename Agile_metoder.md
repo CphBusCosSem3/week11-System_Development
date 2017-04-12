@@ -15,6 +15,9 @@
 2. Manifesto for Agile Software Development - http://agilemanifesto.org
 3. Ambler: Communication on Agile Software Teams - http://www.agilemodeling.com/essays/communication.htm
 
+**PowerPoint**
+https://github.com/CphBusCosSem3/week11-System_Development/blob/master/Agile.pptx
+
 **Video:**
 * 40 min - conference talk
 * Martin Fowler and Niel Ford, 2010
