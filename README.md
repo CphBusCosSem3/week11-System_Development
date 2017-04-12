@@ -1,6 +1,7 @@
 #Uge 16 - System Development
 
 ##[Intro til SYS](Intro_SYS.md) - Tirsdag - 18.04.2017
+Alle skal være i en gruppe, skriv navne i dette Google doc: https://docs.google.com/document/d/154LdWtT4Nh6Jq_bYr6Kg6SfKwLR18q42C5z9BCK6E9o/edit?usp=sharing
 
 ##[Outsourcing](Outsourcing.md) - Tirsdag - 18.04.2017
 
